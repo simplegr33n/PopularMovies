@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PopularMoviesV1</string>
+
+    <string name="rating_sort">Rating</string>
+
+    <string name="popularity_sort">Popularity</string>
+
+    <string name="image_description_poster">movie poster image</string>
+
+</resources>
